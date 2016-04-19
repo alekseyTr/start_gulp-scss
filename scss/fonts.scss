@@ -1,0 +1,7 @@
+@import "mixin";
+
+// include fonts
+//template - font-face ($font-family,$file-path,$font-weight: normal,$font-style: normal) 
+@include font-face (RobotoRegular, "../fonts/RobotoRegular/RobotoRegular");
+
+// mixin for base font
