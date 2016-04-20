@@ -1,5 +1,6 @@
-@import "mixin";
-@import "vars";
+// Core variables and mixins
+@import "variables";
+@import "mixins";
 
 body {
   @include font-smoothing;

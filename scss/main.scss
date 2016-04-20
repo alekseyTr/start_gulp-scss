@@ -1,5 +1,9 @@
-@import "mixin";
-@import "vars";
+// Core variables and mixins
+@import "mixins";
+@import "variables";
+//Reset and Grid generate (use on start proect and insert in <head>)
+// @import "normalize";
+// @import "grid";
 
 //Load Libs Sass/SCSS
 
